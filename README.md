@@ -1,2 +1,2 @@
-# 🌊 Mizu OwO aPI
+🌊 Mizu OwO aPI
 
