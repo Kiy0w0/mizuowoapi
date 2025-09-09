@@ -3,8 +3,8 @@
     "name": "Mizu Network API",
     "version": "1.0.0",
     "description": "Official API for Mizu Network bot automation system",
-    "base_url": "https://api.mizunetwork.com",
-    "documentation": "https://docs.mizunetwork.com"
+    "base_url": "https://kiy0w0.github.io/mizuowoapi",
+    "documentation": "https://kiy0w0.github.io/mizuowoapi"
   },
   "endpoints": {
     "version": "/api2/version.json",
