@@ -1,13 +1,14 @@
 {
-  "version": "1.0.0",
-  "changelog": "🎉 Big Update Yeah",
-  "important_update": false,
+  "version": "1.0.1",
+  "changelog": "✨ Dashboard & Analytics Update",
+  "important_update": true,
   "release_date": "2025-01-08",
   "features": [
-    "Complete rebranding to Mizu Network",
-    "New cyan color theme",
-    "Updated ASCII art with MIZU 水",
-    "Modern website dashboard",
-    "MIT License implementation"
+    "✨ New Dashboard with realtime features",
+    "🛡️ Enhanced anti-detection system",
+    "📊 Profit & loss tracking",
+    "🚀 Realtime notifications",
+    "⚡ Advanced stealth mode",
+    "📈 ROI calculations and analytics"
   ]
 }

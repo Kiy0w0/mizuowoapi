@@ -1,12 +1,26 @@
 {
   "latest_update": {
-    "version": "1.0.0",
-    "release_date": "2025-01-08T00:00:00Z",
-    "type": "major",
-    "title": "🌊 Mizu Network Launch",
-    "description": "Complete rebranding and modernization of the automation system"
+    "version": "1.0.1",
+    "release_date": "2025-01-08T12:00:00Z",
+    "type": "feature",
+    "title": "✨ Dashboard & Analytics Update",
+    "description": "New realtime dashboard, enhanced anti-detection, and profit tracking features"
   },
   "update_history": [
+    {
+      "version": "1.0.1",
+      "date": "2025-01-08T12:00:00Z",
+      "changes": [
+        "✨ New Dashboard with realtime features",
+        "🛡️ Added enhanced anti-detection features",
+        "📊 Profit & loss tracking system",
+        "🚀 Realtime notifications and updates",
+        "⚡ Advanced stealth mode for farming",
+        "📈 ROI calculations and analytics",
+        "💾 Export reports functionality"
+      ],
+      "breaking_changes": []
+    },
     {
       "version": "1.0.0",
       "date": "2025-01-08T00:00:00Z",
