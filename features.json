@@ -3,30 +3,40 @@
     "auto_farming": {
       "enabled": true,
       "description": "Automated OwO bot farming with intelligent patterns",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "settings": {
         "smart_delays": true,
         "anti_detection": true,
         "enhanced_anti_detection": true,
         "custom_patterns": true,
-        "advanced_stealth_mode": true
+        "advanced_stealth_mode": true,
+        "auto_sell_animals": true,
+        "auto_random_commands": true
       }
     },
     "captcha_solver": {
       "enabled": true,
-      "description": "Advanced captcha detection and notification system",
-      "version": "1.0.0",
+      "description": "Enhanced captcha detection with auto-stop/resume functionality",
+      "version": "1.2.0",
       "supported_types": [
         "image",
         "text",
         "reaction",
-        "button"
+        "button",
+        "attachments",
+        "embeds"
+      ],
+      "features": [
+        "automatic_stop_on_detection",
+        "automatic_resume_after_solve",
+        "real_time_dashboard_alerts",
+        "enhanced_logging"
       ]
     },
     "web_dashboard": {
       "enabled": true,
       "description": "Modern web interface with realtime monitoring and control",
-      "version": "1.0.1",
+      "version": "1.2.0",
       "features": [
         "real_time_stats",
         "live_dashboard",
@@ -34,7 +44,36 @@
         "earnings_tracking",
         "profit_loss_tracking",
         "responsive_design",
-        "realtime_notifications"
+        "realtime_notifications",
+        "quick_settings_toggles",
+        "enhanced_status_monitoring",
+        "account_statistics_breakdown",
+        "live_activity_feed",
+        "toast_notifications"
+      ]
+    },
+    "auto_sell_system": {
+      "enabled": true,
+      "description": "Automatic animal selling when cowoncy runs low",
+      "version": "1.2.0",
+      "features": [
+        "smart_triggering_below_threshold",
+        "rate_limiting_3_per_hour",
+        "cooldown_system_5_10_minutes",
+        "dashboard_integration",
+        "configurable_threshold"
+      ]
+    },
+    "auto_random_commands": {
+      "enabled": true,
+      "description": "Automatic Run Piku PuP (RPP) with natural behavior simulation",
+      "version": "1.2.0",
+      "features": [
+        "natural_behavior_simulation",
+        "smart_scheduling_30_120_minutes",
+        "rate_limiting_8_per_hour",
+        "intelligent_execution",
+        "configurable_commands"
       ]
     }
   },

@@ -1,7 +1,7 @@
 {
   "api_info": {
     "name": "Mizu Network API",
-    "version": "1.0.0",
+    "version": "1.2.0",
     "description": "Official API for Mizu Network bot automation system",
     "base_url": "https://kiy0w0.github.io/mizuowoapi",
     "documentation": "https://kiy0w0.github.io/mizuowoapi"
