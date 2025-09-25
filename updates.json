@@ -11,14 +11,14 @@
       "version": "1.2.0",
       "date": "2025-16-09T12:00:00Z",
       "changes": [
-        "💰 Auto Sell Animals System - Automatic sell when cash runs out",
-        "🎲 Automatic Run Piku PuP (RPP) - Natural behavior simulation",
-        "🚨 Enhanced Captcha Detection - Auto-stop/resume functionality",
-        "📊 Improved Web Dashboard - Real-time command logging and toggles",
-        "⚙️ Configuration Enhancements - New autoSell and autoRandomCommands sections",
-        "🎨 UI/UX Improvements - New status indicators with animations",
-        "🛡️ Enhanced Security & Safety - Better anti-detection patterns",
-        "🐛 Bug Fixes - Dashboard status updates and stability improvements"
+        "✨ AutoEnhance System - Auto-use gems when hunting & auto-invest essence",
+        "🎲 Enhanced RPP Commands - Run/Piku/Pup every 1 minute randomly",
+        "📊 Improved Web Dashboard - New AutoEnhance controls & better UI",
+        "📚 Windows Tutorial - Complete setup guide for Windows users",
+        "🔧 Huntbot Captcha Solver - Fixed stuck in password issue",
+        "🎯 Command Conflicts - Fixed huntbot disabling all other commands",
+        "🛡️ OwO Spam Loop - Fixed infinite owo message sending",
+        "📖 Contributing Guide - Developer documentation for contributors"
       ],
       "breaking_changes": []
     },

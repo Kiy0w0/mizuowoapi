@@ -1,0 +1,26 @@
+{
+  "name": "mizuowoapi",
+  "version": "1.2.0",
+  "description": "🌊 Mizu OwO API - Official API for Mizu Network bot automation system",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site, no build needed'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "api",
+    "mizu",
+    "owo",
+    "bot",
+    "automation",
+    "discord"
+  ],
+  "author": "Mizu Network Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kiy0w0/mizuowoapi.git"
+  },
+  "homepage": "https://mizuowoapi.vercel.app"
+}

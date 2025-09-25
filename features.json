@@ -66,14 +66,26 @@
     },
     "auto_random_commands": {
       "enabled": true,
-      "description": "Automatic Run Piku PuP (RPP) with natural behavior simulation",
+      "description": "Enhanced RPP Commands - Run/Piku/Pup every 1 minute randomly",
       "version": "1.2.0",
       "features": [
         "natural_behavior_simulation",
-        "smart_scheduling_30_120_minutes",
-        "rate_limiting_8_per_hour",
+        "enhanced_1_minute_intervals",
+        "random_command_selection",
         "intelligent_execution",
         "configurable_commands"
+      ]
+    },
+    "auto_enhance_system": {
+      "enabled": true,
+      "description": "AutoEnhance System - Auto-use gems when hunting & auto-invest essence",
+      "version": "1.2.0",
+      "features": [
+        "auto_use_gems_hunting",
+        "auto_invest_essence",
+        "smart_resource_management",
+        "dashboard_controls",
+        "configurable_thresholds"
       ]
     }
   },
